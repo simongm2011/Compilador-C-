@@ -1,0 +1,17 @@
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.csproj.AssemblyReference.cache
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.AssemblyInfoInputs.cache
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.AssemblyInfo.cs
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.csproj.CoreCompileInputs.cache
+C:\Users\SIMON\source\repos\Analizador\Analizador\bin\Debug\net6.0\Analizador.exe
+C:\Users\SIMON\source\repos\Analizador\Analizador\bin\Debug\net6.0\Analizador.deps.json
+C:\Users\SIMON\source\repos\Analizador\Analizador\bin\Debug\net6.0\Analizador.runtimeconfig.json
+C:\Users\SIMON\source\repos\Analizador\Analizador\bin\Debug\net6.0\Analizador.dll
+C:\Users\SIMON\source\repos\Analizador\Analizador\bin\Debug\net6.0\Analizador.pdb
+C:\Users\SIMON\source\repos\Analizador\Analizador\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.csproj.CopyComplete
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.dll
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\refint\Analizador.dll
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.pdb
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\Analizador.genruntimeconfig.cache
+C:\Users\SIMON\source\repos\Analizador\Analizador\obj\Debug\net6.0\ref\Analizador.dll

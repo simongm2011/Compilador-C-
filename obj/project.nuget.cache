@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "poC1gj223rc9UmZSOpXuELV7rXqJHiWqaacLvR9xqK5K22vORIj/VDAE5LpnTkryTvG8Ybl5rSddpTatbvjHdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SIMON\\source\\repos\\Analizador\\Analizador\\Analizador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SIMON\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
